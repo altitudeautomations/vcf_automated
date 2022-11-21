@@ -1,1 +1,1 @@
-# vcf_automated
+VCF Should by as easy as clicking a button!
